@@ -1,0 +1,1 @@
+export const DB_NAME = "Backend course 2024"
