@@ -13,6 +13,6 @@ connectDB()
     })
 })
 .catch((error) =>{
-    console.log("Connectin faild to connect mongodb",error);
+    console.log("Connection faild to connect mongodb",error);
 
 })
